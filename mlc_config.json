@@ -1,4 +1,3 @@
 {
-    "ignorePatterns": ["^http://ignored-domain.com",
-      "^http://ignored2-domain.com"]
+    "ignorePatterns": ["^http://ignored-domain.com"]
 }
