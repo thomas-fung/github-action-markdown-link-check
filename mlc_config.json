@@ -1,8 +1,11 @@
 {
     "ignorePatterns": [
-        { "pattern": "^http://ignored-domain.com" }
+        {
+            "pattern": "http://ignored-domain.com"
+        },
+        {
+            "pattern": "http://ignored2-domain.com"
+        }
     ]
-    "ignorePatterns": [
-        { "pattern": "^http://ignored2-domain.com" }
-    ]
+
 }
