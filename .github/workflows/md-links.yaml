@@ -14,5 +14,4 @@ jobs:
         use-verbose-mode: 'yes'
         config-file: 'mlc_config.json'
         file-extension: '.md'
-        folder-path: 'lectures, tutorials, exam, assignment'
         max-depth: -1
