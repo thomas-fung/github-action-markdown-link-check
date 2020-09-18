@@ -8,6 +8,9 @@ www.google.com
 <!-- markdown-link-check-disable-next-line -->
 [This is another broken link](http://ignored-domain.com) but its ignored using a
 configuration file. 
+[This is another broken link](http://ignored2-domain.com) but its ignored using a
+configuration file. 
+
 
 ### Alpha
 
